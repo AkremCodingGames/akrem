@@ -6,6 +6,7 @@ public class GitMainClass {
 		System.out.println("Hello Git");
 		System.out.println("Modified from Github");
 		System.out.println("Modified from Eclipse");
+		System.out.println("i'm editing fot the tag");
 	}
 
 }
