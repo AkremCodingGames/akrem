@@ -8,6 +8,7 @@ public class GitMainClass {
 		System.out.println("Modified from Eclipse");
 		System.out.println("i'm editing fot the tag");
 		System.out.println("lets test rebasing");
+		System.out.println("karrazet");
 	}
 
 }
