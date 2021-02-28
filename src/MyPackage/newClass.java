@@ -3,7 +3,7 @@ package MyPackage;
 public class newClass {
 	
 	public newClass() {
-		System.out.println("test .. test");
+		System.out.println("test .. test .. test");
 	}
 
 }
